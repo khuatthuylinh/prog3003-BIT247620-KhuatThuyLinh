@@ -1,5 +1,3 @@
-package ExTwo;
-
 import java.util.List;
 
 class Student {
